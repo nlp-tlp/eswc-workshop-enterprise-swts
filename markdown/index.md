@@ -1,4 +1,4 @@
-# ESWC Workshop Proposal
+# ESWC Workshop on Semantic Technology Implementation for Industrial Enterprises
 
 **Authors:** Dr. Caitlin Woods and Prof. Melinda Hodkiewicz  
 **Date:** November 2025
