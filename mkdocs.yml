@@ -1,0 +1,6 @@
+site_name: ESWC Workshop Proposal
+site_description: Semantic Technology Implementation for Industrial Enterprises
+theme:
+  name: material
+nav:
+  - Home: index.md
