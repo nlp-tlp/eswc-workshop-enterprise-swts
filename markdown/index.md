@@ -10,8 +10,6 @@
 
 ## Information about the Workshop
 
-### Abstract
-
 We are entering a pivotal moment for the future of Semantic Web Technologies (SWTs) for industry users such as equipment manufacturers, engineering designers, and industrial operations and maintenance communities. This is fuelled by pressures to improve supply chain interoperability, unify IT/OT data across enterprise systems, implement digital twins and product life cycle modelling, and provide traceability. All of these need contextualised, machine-interpretable data.
 
 Despite increasing interest from industrial enterprises, leadership understanding of knowledge management, the availability of semantic specialists, and workforce education are barriers. Pilots go well but implementation at scale in the enterprise remains challenging.
